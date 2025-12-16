@@ -513,11 +513,11 @@ section#home{
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: all 0.3s ease;
+    transition: all 0.85s ease;
 }
 
 .service-card:hover .service-icon{
-    transform: rotateY(360deg);
+    transform: rotateY(180deg);
 }
 
 .service-icon i{
